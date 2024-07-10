@@ -1,6 +1,6 @@
 # Calendinator
-A very simple calendar that I love to use.
-After executing the user is able to enter a start date and end date and based on that the calendar will be created.
+## Status: Complete
 
-# The Program is finished and works as intended.
-Yet small (unnecessary) adjustments are in progress
+A very simple calendar that I have been using since for ever.
+After executing the user is able to enter a start and end date. Based on that the calendar will be created.
+Output files in PDF and Excel.
